@@ -1,4 +1,5 @@
 #include "heightmap.h"
+#include <algorithm>
 
 #define GLM_ENABLE_EXPERIMENTAL
 #include <glm/gtx/normal.hpp>
